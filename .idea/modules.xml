@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BaiTap1/BaiTap1.iml" filepath="$PROJECT_DIR$/BaiTap1/BaiTap1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTap2/BaiTap2.iml" filepath="$PROJECT_DIR$/BaiTap2/BaiTap2.iml" />
       <module fileurl="file://$PROJECT_DIR$/IOBinaryFile.iml" filepath="$PROJECT_DIR$/IOBinaryFile.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThucHanh1/ThucHanh1.iml" filepath="$PROJECT_DIR$/ThucHanh1/ThucHanh1.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThucHanh2/ThucHanh2.iml" filepath="$PROJECT_DIR$/ThucHanh2/ThucHanh2.iml" />
